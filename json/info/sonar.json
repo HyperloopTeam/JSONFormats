@@ -1,0 +1,7 @@
+{
+  "info" : "sonar",
+  "est_dist_from_tube" : 0.00,
+  "quadrant" : "1/2/3/4",
+  "status" : "safe/caution/unsafe",
+  "timestamp" : "some date and time"
+}

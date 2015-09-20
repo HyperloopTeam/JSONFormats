@@ -1,0 +1,7 @@
+{
+  "risk" : "HIGH/ME/LOW",
+  "issue" : "hard coded string about issue",
+  "solution" : "suggested solution to solve issue",
+  "info_type" : "info to invoke for more details",
+  "timestamp" : "some date and time"
+}

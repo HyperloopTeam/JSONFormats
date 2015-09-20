@@ -1,0 +1,8 @@
+{
+  "info" : "air quality",
+  "status" : "safe/caution/unsafe",
+  "location" : "outside/inisde",
+  "oxygen" : 0.0,
+  "heavy_prescence" : "none/methane/CO/C02/etc",
+  "timestamp" : "some data and time"
+}

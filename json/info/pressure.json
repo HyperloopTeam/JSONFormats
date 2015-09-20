@@ -1,0 +1,7 @@
+{
+  "info" : "pressure",
+  "measurement" : 0.000,
+  "status" : "safe/caution/danger",
+  "location" : "outside/inside",
+  "timestamp" : "some date and time"
+}

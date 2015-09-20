@@ -1,0 +1,8 @@
+{
+  "info" : "temperature",
+  "farenheit" : 0.000,
+  "celsius" : 0.000,
+  "location" : "outside/inside",
+  "timestamp" : "some date and time",
+  "status" : "safe/caution/danger"
+}

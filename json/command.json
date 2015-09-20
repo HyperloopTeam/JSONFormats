@@ -1,0 +1,6 @@
+{
+  "command" : "some commaned (i.e. brake, drop, open doors, invoke info, etc)",
+  "attributes_to_mod" : "a series of strings seprated by semicolons that represent an attribute on the pod (i.e. speed, calibration in tube, etc ) -- usually won't be necessary except in emergency",
+  "values_to_mod" : "values in string format like above to correspond with attrbiute",
+  "timestamp" : "some data and time"
+}
